@@ -1,2 +1,2 @@
-# Bootcamp Project: "Text Classification" 
+Bootcamp Project: "Text Classification" 
 
