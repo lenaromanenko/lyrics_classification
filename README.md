@@ -1,2 +1,1 @@
-Bootcamp Project: "Text Classification" 
 
