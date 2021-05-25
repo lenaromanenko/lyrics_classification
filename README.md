@@ -17,7 +17,7 @@ Let's copy a piece of text from Frank Sinatra's famous song from a website and c
 See more results [here](https://github.com/lenaromanenko/lyrics_classification/blob/main/readme_file_images/cli_2.gif).
 
 ## Workflow:
-1. Choosing some artists on [MetroLyrics](https://www.metrolyrics.com/).
+1. Choosing some artists from [MetroLyrics](https://www.metrolyrics.com/).
 2. Web Scraping: downloading the URLs of all songs of chosen artists and getting song lyrics using **Requests module**, **RegEx**, and **BeautifulSoup**.
 3. Constructing text corpus (a list of strings) and labels.
 4. Cleaning the text with the help of **Natural Language Toolkit (NLTK)** or **spaCy**. There are both text cleaning methods for NLP in the [classification_model.py](https://github.com/lenaromanenko/lyrics_classification/blob/main/command-line%20interface/classification_model.py).
